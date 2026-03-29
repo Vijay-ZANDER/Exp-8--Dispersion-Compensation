@@ -1,5 +1,4 @@
 
-# Dispersion-Compensation
 # Dispersion Compensation
 
 ## Objective
@@ -68,11 +67,16 @@ The main physical components of this layout are:
   - Optical waveforms at transmitter output, junction between fibers, and receiver input  
 
 ---
+![WhatsApp Image 2026-03-26 at 7 42 19 PM](https://github.com/user-attachments/assets/a6a976f3-e5d6-496f-8133-7b9c28c0ec34)
+
+
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
-- Record similar measurements for comparison.  
+- Record similar measurements for comparison.
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6ffbe7b-255b-418a-b397-daac5bf3ebfc" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/68b00133-8fdd-43a3-8acb-b34fd9a0e30f" />
 ---
 
 ## Conclusions
